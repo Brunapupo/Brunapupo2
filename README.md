@@ -23,7 +23,6 @@ at the Federal University of Santa Catarina
 	
 <div>
 	<img align="center" alt="Brunapupo" src="https://assets.pokemon.com/assets/cms2/img/cards/web/SWSH6/SWSH6_EN_168.png">
-	![rapidashponytadegalar](https://user-images.githubusercontent.com/112135250/186811518-24a055d6-016d-4915-96ff-69dee7673ce6.gif)
 </div>	
 	
 ##
